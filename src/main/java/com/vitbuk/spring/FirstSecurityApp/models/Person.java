@@ -24,7 +24,7 @@ public class Person {
 
     @Column(name = "password")
     private String password;
-    
+
     public Person() {
     }
 
